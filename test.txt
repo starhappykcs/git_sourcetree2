@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 master add
 new13
+=======
+new13
+mb add
+>>>>>>> mb
